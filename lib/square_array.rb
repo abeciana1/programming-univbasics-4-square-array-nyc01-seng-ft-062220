@@ -1,9 +1,11 @@
 def square_array(array)
+  count = 0 
   
-  new_array = []
+  new_numbers = []
   
-  new_array = array.length.times { |i| puts i, i**2
-    
-  }
-new_array
+  while count < array.length do
+  puts array[count]**2
+  count += 1
+end
+ new_numbers
 end
