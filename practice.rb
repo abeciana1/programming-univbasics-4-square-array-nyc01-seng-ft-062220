@@ -10,3 +10,5 @@ def square(array)
 end
 # new_numbers
 end
+
+square(numbers)
