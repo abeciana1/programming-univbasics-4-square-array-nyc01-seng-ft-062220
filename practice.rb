@@ -1,4 +1,4 @@
-array = [1, 3, 4]
+array_1 = [1, 3, 4]
 
 def square_array(array)
   count = 0
@@ -14,4 +14,4 @@ end
   return new_array
 end
 
-puts square_array(array)
+puts square_array(array_1)
