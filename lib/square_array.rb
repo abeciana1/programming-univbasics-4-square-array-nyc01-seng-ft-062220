@@ -1,5 +1,7 @@
 def square_array(array)
   
-  array.length.times 
+  array.length.times {
+    
+  }
   
 end
