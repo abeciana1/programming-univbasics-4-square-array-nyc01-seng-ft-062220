@@ -4,7 +4,7 @@ def square_array(array)
   
   new_array = []
   
-  while  do
+  while array do
     
   new_array = array ** 2
 end
