@@ -6,3 +6,5 @@ def square(array)
   puts array[count]**2
   
 end
+
+square(numbers)
