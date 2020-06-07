@@ -7,7 +7,7 @@ def square_array(array)
   
   array.length.times array[count] do
     
-  new_array[count] = [count] ** 2
+  new_array[count] = array[count] ** 2
   
   count += 1
 end
