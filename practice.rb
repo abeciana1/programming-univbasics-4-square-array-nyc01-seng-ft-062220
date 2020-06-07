@@ -1,4 +1,4 @@
-
+array = [1, 3, 4]
 
 def square_array(array)
   count = 0
@@ -13,5 +13,3 @@ def square_array(array)
 end
   return new_array
 end
-
-puts square_array([1, 2, 3])
