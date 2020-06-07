@@ -3,8 +3,10 @@ numbers = [2, 3, 4]
 def square(array)
   count = 0 
   
-  puts array[count]**2
+  #new_numbers = []
   
+  while count < array.length do
+  puts array[count]**2
 end
-
-square(numbers)
+# new_numbers
+end
