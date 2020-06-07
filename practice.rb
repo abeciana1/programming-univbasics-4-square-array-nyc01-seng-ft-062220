@@ -7,6 +7,7 @@ def square(array)
   
   while count < array.length do
   puts array[count]**2
+  count += 1
 end
 # new_numbers
 end
